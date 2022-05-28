@@ -22,6 +22,12 @@
             android:id="@+id/spinner1"
             android:layout_width="match_parent"
             android:layout_height="75dp" />
+        <Button
+            android:id="@+id/btnCerrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Cerrar ">
+        </Button>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
